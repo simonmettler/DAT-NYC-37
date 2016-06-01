@@ -1,5 +1,5 @@
 #
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS-SF-23](https://github.com/ga-students/DS-SF-23)
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DAT-NYC-37](https://github.com/ga-students/DAT-NYC-37)
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/new-york) in New York (6/1/16 - 8/15/16)
 
